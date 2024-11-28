@@ -50,7 +50,7 @@ Getting Started
 Clone the repository:
 
 ```bash
-git clone https://gitlab.com/kashish10/movie-recommender-system.git
+git clone https://github.com/TanishqCh07/movie-recommender-system
 ```
 Install dependencies:
 ```bash
@@ -70,5 +70,5 @@ $ python3 Recommender Systems.py
 
 Contributing
 ------------
-Contributions are actively encouraged. Please review the code. If you find a bug, or any improvement please [email me](kashish.chaurasia10@gmail.com), submit a pull request or submit an issue.
+Contributions are actively encouraged. Please review the code. If you find a bug, or any improvement please [email me](tanishq.chaurasia07@gmail.com), submit a pull request or submit an issue.
 

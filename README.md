@@ -10,7 +10,7 @@ The project is divided into three stages:
 * Data Preprocessing
 * Model Building
 * Results Analysis
-* Movie Recommendations
+* Movie Recommendations   
 
 Data Visualizations
 -------------------

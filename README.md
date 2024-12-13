@@ -8,7 +8,7 @@ Recommender systems are utilized in a variety of areas including movies, music, 
 
 The project is divided into three stages:
 * Data Preprocessing
-* Model Building
+* Model Building              
 * Results Analysis
 * Movie Recommendations   
 

@@ -6,7 +6,7 @@ Recommender system
 A Recommender System or a Recommendation System is a subclass of information filtering system that seeks to predict the "rating" or "preference" a user would give to an item.
 Recommender systems are utilized in a variety of areas including movies, music, news, books, research articles, search queries, social tags, and products in general.
 
-The project is divided into three stages:
+The project is divided into three stages:         
 * Data Preprocessing
 * Model Building              
 * Results Analysis

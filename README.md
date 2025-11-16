@@ -28,7 +28,7 @@ Data Visualizations
 ![](output/recommendations.PNG)
 
 Dataset
--------
+--------
 It contains 100836 ratings and 3683 tag applications across 9742 movies. These data were created by 610 users between March 29, 1996 and September 24, 2018. This dataset was generated on September 26, 2018.
 
 datasets: [kaggle dataset](https://grouplens.org/datasets/movielens/latest/)
